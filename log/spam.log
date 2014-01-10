@@ -1,0 +1,9 @@
+2014-01-07 16:27:20,251 - simple_example - DEBUG - debug message
+2014-01-07 16:27:20,252 - simple_example - INFO - info message
+2014-01-07 16:27:20,252 - simple_example - WARNING - warn message
+2014-01-07 16:27:20,252 - simple_example - ERROR - error message
+2014-01-07 16:27:20,252 - simple_example - CRITICAL - critical message
+2014-01-07 16:27:56,224 - simple_example - ERROR - error message
+2014-01-07 16:27:56,224 - simple_example - CRITICAL - critical message
+2014-01-07 16:29:53,990 - simple_example - ERROR - error message
+2014-01-07 16:29:53,990 - simple_example - CRITICAL - critical message
